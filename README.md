@@ -1,4 +1,3 @@
-# PasswordVault https://passwordsvault.netlify.app/
 
 # 🔐 PasswordVault
 
