@@ -1,5 +1,10 @@
 # PasswordVault https://passwordsvault.netlify.app/
-# 🔐 Secure Auth Starter - Express & React Authentication System 🚀
+
+# 🔐 PasswordVault
+
+Welcome to the PasswordVault! This is a simple web-based application that creates and stores strong passwords on a secured website, hosted at [https://passwordsvault.netlify.app/).
+
+# Secure Auth Starter - Express & React Authentication System 🚀
 
 A robust and secure authentication boilerplate featuring Express.js backend and React frontend integration! Perfect for kickstarting your secure web applications with battle-tested authentication.
 
